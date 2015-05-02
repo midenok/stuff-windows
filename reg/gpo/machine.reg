@@ -1,0 +1,73 @@
+Windows Registry Editor Version 5.00
+; Created by the Virtual Engine Toolkit v1.4.4960.27172
+; Creation date: 05-02-2015 19:00:42
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Main]
+"DEPOff"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Security]
+"DisableSecuritySettingsCheck"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings]
+"Security_HKLM_only"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Lockdown_Zones\0]
+"1208"=dword:00000000
+"1806"=dword:00000000
+"1802"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Lockdown_Zones\1]
+"1208"=dword:00000000
+"1806"=dword:00000000
+"1802"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Lockdown_Zones\2]
+"1208"=dword:00000000
+"1806"=dword:00000000
+"1802"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Lockdown_Zones\3]
+"1208"=dword:00000000
+"1806"=dword:00000000
+"1802"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Lockdown_Zones\4]
+"1806"=dword:00000000
+"1802"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap]
+"IntranetName"=dword:00000001
+"UNCAsIntranet"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\0]
+"1208"=dword:00000000
+"1806"=dword:00000000
+"1802"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\1]
+"1208"=dword:00000000
+"1806"=dword:00000000
+"1802"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2]
+"1208"=dword:00000000
+"1806"=dword:00000000
+"1802"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3]
+"1208"=dword:00000000
+"1806"=dword:00000000
+"1802"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4]
+"1806"=dword:00000000
+"1802"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Personalization]
+"NoLockScreen"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Windows Search]
+"DisableRemovableDriveIndexing"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\WindowsStore]
+"RemoveWindowsStore"=dword:00000001
